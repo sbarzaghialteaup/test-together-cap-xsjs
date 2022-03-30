@@ -1,0 +1,9 @@
+### Get Books by CAP service
+http://localhost:4004/catalog/Books
+
+### Increment book stock by CAP service
+POST http://localhost:4004/catalog/incrementStock HTTP/1.1
+Content-Type:  application/json
+
+### Call XSJS service
+http://localhost:4004/test.xsjs
