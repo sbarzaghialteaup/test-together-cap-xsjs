@@ -22,6 +22,7 @@ Exposed XSJS service:
 
 # How to run
 - clone this repo
+- `npm install`
 - launch the project with `cds watch`
 - launch the http calls in file `test.http`
 
